@@ -1,0 +1,6 @@
+meter_id = ECGNM3
+digiaddress = WR56
+city = Accra
+sec_code = 303
+
+These are the important unique details of a meter 
